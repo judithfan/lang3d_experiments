@@ -238,7 +238,8 @@ jsPsych.plugins["image-button-response"] = (function() {
         correct: trial_correct, 
         wID: wID,
         hitID: hitID,
-        aID: aID        
+        aID: aID,   
+        timestamp: Date.now()     
       };
 
       console.log('trial data: ', trial_data);
