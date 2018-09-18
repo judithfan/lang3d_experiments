@@ -8,7 +8,7 @@ __pycache__/
 *.npy
 *.png
 *.txt
-
+node_modules/
 
 # Distribution / packaging
 .Python
