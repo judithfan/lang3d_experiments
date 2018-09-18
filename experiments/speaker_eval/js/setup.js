@@ -22,7 +22,7 @@ function setupGame () {
       type: 'image-button-response',
       iterationName: 'testing',
       num_trials: num_trials,
-      dev_mode: true,
+      dev_mode: false,
     };
 
     var trials = new Array(tmp.num_trials + 2);
