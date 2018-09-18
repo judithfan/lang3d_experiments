@@ -20,7 +20,7 @@ function setupGame () {
     // define trial list
     var tmp = {
       type: 'image-button-response',
-      iterationName: 'testing',
+      iterationName: 'pilot0',
       num_trials: num_trials,
       dev_mode: false,
     };
