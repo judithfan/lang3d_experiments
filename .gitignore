@@ -9,6 +9,8 @@ __pycache__/
 *.png
 *.txt
 node_modules/
+auth.json
+auth.txt
 
 *.csv
 # Distribution / packaging
